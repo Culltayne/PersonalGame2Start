@@ -73,3 +73,22 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Windows/Manifest_UFSFiles_Win64.txt
+Windows/Manifest_NonUFSFiles_Win64.txt
+Windows/Game2Start/Content/Paks/global.utoc
+Windows/Game2Start/Content/Paks/global.ucas
+Windows/Game2Start/Content/Paks/Game2Start-Windows.utoc
+Windows/Game2Start/Content/Paks/Game2Start-Windows.ucas
+Windows/Game2Start/Content/Paks/Game2Start-Windows.pak
+Windows/Game2Start/Content/FMOD/Desktop/Master.strings.bank
+Windows/Game2Start/Content/FMOD/Desktop/Master.bank
+Windows/Engine/Extras/GPUDumpViewer/OpenGPUDumpViewer.sh
+Windows/Engine/Extras/GPUDumpViewer/OpenGPUDumpViewer.bat
+Windows/Engine/Extras/GPUDumpViewer/GPUDumpViewer.html
+Windows/Engine/Content/SlateDebug/Fonts/LastResort.ttf
+Windows/Engine/Content/SlateDebug/Fonts/LastResort.tps
+Windows/Engine/Content/Slate/Cursor/invisible.cur
+Windows/Engine/Binaries/Win64/UnrealGame.pdb
+Windows/Engine/Binaries/Win64/tbbmalloc.pdb
+Windows/Engine/Binaries/Win64/tbb.pdb
+TrashMan.zip
